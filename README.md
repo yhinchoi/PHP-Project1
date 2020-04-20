@@ -1,6 +1,7 @@
 # PHP-Project1:
 <b>This is my Higher Diploma in Telecommunications and Networking FYP</b><br>
 <b>IoT for Online Shopping System - HKMall</b><br>
+Skill: HTML, CSS, PHP, MySQL, JavaScript<br>
 
 Abstract:<br>
 
