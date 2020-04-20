@@ -3,19 +3,7 @@
 <b>IoT for Online Shopping System - HKMall</b><br>
 Abstract
 ```
-We are IT114103/2A students from Hong Kong Institute of Vocational Education of
-Tsing Yi Campus. We are going to set up an IoT online shopping system which is
-called “HKMall Online Shopping System” for our Final Year Project.
-Nowadays, online shopping is very common in everywhere. For example, Hong Kong
-people always buy things on Taobao. Not only the prices of the goods are cheaper
-than Hong Kong, but also convenient to customers because they do not need to go to
-entity store. However, customers may look forward to the goods so they want to
-know the location of the orders when they are shipping and they can spend the time
-to receive the delivery. That’s why we are going to add the GPS system to track arrival
-of the orders.
-In this final report, we will present the final version of our system. In this report, the
-test case and user guide were included. In addition, it also included some updated
-development and new functions of the system.
+Home delivery service is an essential service for online shopping. The need for reliable delivery system to ensure freshness of foods is challenging with consumers' busy schedule and heavy traffic. In this paper, we present a low-cost real-time GPS system that allows customers to schedule their food delivery more efficiently. Using this GPS system, consumers are able to track their delivery and arrival of their grocery to ensure the freshness of products. Additionally, a user-friendly online grocery shopping system is presented for retailer to promote their products and for customers to select their grocery in a more time-saving method. This website was developed to support the limited number of grocery online shopping websites in Hong Kong. To create the user-friendly access website, we have incooperated four functions in this website: Online shopping cart, system to support various payment methods, GPS food tracking system, and members' easily access account data system. This low-cost online system is designed to provide simple access for retailers (administrator, staff), customers, and visitor for creating a friendly online shopping standard.
 ```
 #This project just link to my php project website<br>
 This website is stop maintain
